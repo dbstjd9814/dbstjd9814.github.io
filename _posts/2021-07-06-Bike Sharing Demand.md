@@ -1,7 +1,8 @@
 ---
-layout: single
+layout: post
 title:  "실습 예제 입니다."
 ---
+
 
 # Assignment by YS
 ---
